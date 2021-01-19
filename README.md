@@ -1,2 +1,3 @@
 # file-perms-lib-github
 FIle permissions functions
+Allows report on file permission, batch processing , filter and regular expression Etc....
